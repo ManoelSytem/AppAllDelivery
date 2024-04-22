@@ -1,2 +1,2 @@
-# AppAllDelivery
-App Delivery Android, IOS .NET MAUI
+# AllDelivery
+App Delivery Android, IOS
