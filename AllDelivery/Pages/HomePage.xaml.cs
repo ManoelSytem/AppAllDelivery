@@ -9,7 +9,7 @@ public partial class HomePage : ContentPage
 
 	 private void Login_Clicked(object sender, EventArgs e)
 	 {
-		  Navigation.PushAsync(new StoresPage());
+		  Navigation.PushAsync(new FuncionalidadePage());
 
 	 }
 

@@ -12,6 +12,8 @@ namespace Cliente.Interface
 {
     public interface IMesaService
     {
+        [Get("/Mesa/ObterListaMesa")]
+        Task<List<MesaModel>> ObterListaMesa();
         Task<ActionResultado> Post(MesaModel mesaModel);
         [Post("/Mesa/AbrirMesa")]
         Task<ActionResultado> AbrirMesa(int codMesa, int numeroMesa);

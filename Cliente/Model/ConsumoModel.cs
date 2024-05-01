@@ -16,10 +16,5 @@ namespace Cliente.Model
         public DateTime horaPedido { get; set; }
         public ProdutoModel produto { get; set; }
 
-        public ConsumoModel()
-        {
-
-        }
-
     }
 }
