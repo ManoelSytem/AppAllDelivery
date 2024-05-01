@@ -36,11 +36,11 @@
                             FontAttributes="Bold"
                             FontFamily="bold"
                             FontSize="Medium"
-                            Text="Welcome!"
+                            Text="Bem vindo!"
                             TextColor="#2D2D2D" />
                         <Label
                             FontFamily="medium"
-                            Text="Log in to continue"
+                            Text="Realize Login para continuar"
                             TextColor="#A3A3A4" />
                         <Grid Margin="0,30,0,0">
                             <Grid.ColumnDefinitions>
